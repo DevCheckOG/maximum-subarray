@@ -1,5 +1,5 @@
 # maximum-subarray
-Complicated problem in leetcode, categorized as hard. 
+Complicated problem in leetcode, categorized as medium. 
 
 ### Reference
 
